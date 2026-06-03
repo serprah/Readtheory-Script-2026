@@ -1,5 +1,5 @@
 # epic-school-friendly-script-for-readtheory-Updated-Version-Of-readtheoryscuffed-by-dondonburi-GRADE-12-ONLY
-90% of the code is orginially from dondonburi. full credits to him 
+The code was originially skidded from dondonburi but I improved it and added more updated quizzes and made it fully automatic.
 
 this readtheory script is updated to work with pretty much all of the new quizes, if there isnt one thats not in the script you can manually add it if your not a skid
 
